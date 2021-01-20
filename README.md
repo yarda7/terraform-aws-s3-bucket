@@ -1,7 +1,7 @@
-# hashicat-aws
-Hashicat: A terraform built application for use in Hashicorp workshops
+# Terraform Cloud Workshop Sentinel Policies
+This repository contains sample sentinel policies for use in Terraform Cloud workshops.
 
-Includes "Meow World" website.
+Use with the curriculum available here:
 
-[![CircleCI](https://circleci.com/gh/hashicorp/hashicat-aws.svg?style=svg)](https://circleci.com/gh/hashicorp/hashicat-aws)
-
+https://hashicorp.github.io/workshops
+>>>>>>> 375eab08e01710f32b0f9663d7268e6bd3233c4a
