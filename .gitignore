@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  Local .terraform directories
 **/.terraform/*
 
@@ -14,3 +15,9 @@
 # terraformrc file
 terraform.rc
 .terraformrc
+=======
+.terraform
+terraform.tfstate
+*.tfstate*
+terraform.tfvars
+>>>>>>> a21f43c5e1befd69e564a8fc8c7d02094137e9db
